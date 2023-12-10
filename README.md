@@ -7,13 +7,13 @@ This Python script allows you to run a simple server-client communication over a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/hansajasandeepabadalge/ChatApp-Server-Client-Combined.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd ChatApp-Server-Client-Combined
     ```
 
 3. Run the script as a server:
